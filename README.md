@@ -1,5 +1,5 @@
 # BasicOps Software Engineering Coding Challenges
-Thanks for your interest in joining the team as BasicOps!  As part of our interview process, we ask candidates to do a small coding exercise so that we can get to know each other a bit from a technical perspective.  These challenges aren't intended to be laborious, multi-day efforts, but rather reasonably quick projects to give us an idea of how you solve technical problems relevant to the position you are applying for.  If you find yourself spending more than an few hours on any of these challenges, you might be overthinking your solution.
+Thanks for your interest in joining the team as BasicOps!  As part of our interview process, we ask candidates to do a small coding exercise so that we can get to know each other a bit from a technical perspective.  These challenges aren't intended to be laborious, multi-day efforts, but rather reasonably quick projects to give us an idea of how you solve technical problems relevant to the position you are applying for.  If you find yourself spending more than a few hours on any of these challenges, you might be overthinking your solution.
 
 ## Submission Instructions ##
 1. Fork this project on github.
