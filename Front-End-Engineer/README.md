@@ -11,3 +11,10 @@ When the input field contains at least one character and the user hits Enter or 
 * After one second the button fades out over 1 second
 * One second later the input field fades out over 2 seconds
 * One second later the content of the input field fades in where the input field was over 1 second
+
+## Evaluation ##
+Evaluation of your submission will be based on the following criteria. Additionally, reviewers will attempt to assess your familiarity with standard libraries as well as with language idioms.
+
+Did your application fulfill the basic requirements?
+Did you document the method for setting up and running your application?
+Did you follow the instructions for submission?
