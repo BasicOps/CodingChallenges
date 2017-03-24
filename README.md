@@ -13,7 +13,7 @@ Thanks for your interest in joining the team as BasicOps!  As part of our interv
 If you prefer that your coding challenge submission remain private (as this is a public github repository), please create a patch file and email to your recruiter.
 
 # Project Organization #
-Projects are organized by directory, and named according to the position being applied for.  Instructions for each project are located in the README file inside the project directory.
+Projects are organized by directory and named according to the position being applied for.  Instructions for each project are located in the README file inside the project directory.
 
 ## Coding Challenges ##
 [Front End Engineer](https://github.com/BasicOps/CodingChallenges/tree/master/Front-End-Engineer)
