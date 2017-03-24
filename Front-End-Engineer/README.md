@@ -15,6 +15,6 @@ When the input field contains at least one character and the user hits Enter or 
 ## Evaluation ##
 Evaluation of your submission will be based on the following criteria. Additionally, reviewers will attempt to assess your familiarity with standard libraries as well as with language idioms.
 
-Did your application fulfill the basic requirements?
-Did you document the method for setting up and running your application?
-Did you follow the instructions for submission?
+1. Did your application fulfill the basic requirements?
+2. Did you document the method for setting up and running your application?
+3. Did you follow the instructions for submission?
