@@ -16,4 +16,4 @@ If you prefer that your coding challenge submission remain private (as this is a
 Projects are organized by directory, and named according to the position being applied for.  Instructions for each project are located in the README file inside the project directory.
 
 ## Coding Challenges ##
-[Front End Engineer](https://www.github.com/BasicOps/CodingChallenges/Front-End-Engineer)
+[Front End Engineer](https://github.com/BasicOps/CodingChallenges/tree/master/Front-End-Engineer)
