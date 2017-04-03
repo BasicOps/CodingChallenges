@@ -11,6 +11,9 @@ When the input field contains at least one character and the user hits Enter or 
 * After one second the button fades out over 1 second
 * One second later the input field fades out over 2 seconds
 * One second later the content of the input field fades in where the input field was over 1 second
+* As soon as the fade transition completes, make an API call to this endpoint: http://date.jsontest.com/
+* Parse and append the date and time (or Unix epoch) returned from the enpdpoint left padded by a single space after the rendered content, formatted like so: `Month DD, YYYY at HH:MM AM/PM`
+  * For example: "January 15, 2017 at 12:15 PM"
 
 ### Evaluation ###
 Evaluation of your submission will be based on the following criteria. Additionally, reviewers will attempt to assess your familiarity with standard libraries as well as with language idioms.
